@@ -1,5 +1,15 @@
 # Compiled class file
 *.class
+.DS_Store
+*.xml
+*.lst
+*.iml
+*.jar
+*.original
+*.zip
+*.idea
+*.kotlin_module
+9
 
 # Log file
 *.log
